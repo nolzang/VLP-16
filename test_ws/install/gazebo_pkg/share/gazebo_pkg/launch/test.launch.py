@@ -1,1 +1,0 @@
-/home/junyoung/test_ws/build/gazebo_pkg/launch/test.launch.py
