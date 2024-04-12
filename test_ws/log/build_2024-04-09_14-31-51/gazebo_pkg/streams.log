@@ -1,0 +1,27 @@
+[0.602s] Invoking command in '/home/junyoung/test_ws/build/gazebo_pkg': PYTHONPATH=/home/junyoung/test_ws/build/gazebo_pkg/prefix_override:/home/junyoung/test_ws/install/gazebo_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/junyoung/test_ws/build/gazebo_pkg/build --no-deps symlink_data
+[0.808s] running develop
+[0.809s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.809s]   warnings.warn(
+[0.859s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.12.1-git20200711.33e2d80-dfsg1-0.6 is an invalid version and will not be supported in a future release
+[0.859s]   warnings.warn(
+[0.953s] running egg_info
+[0.953s] creating gazebo_pkg.egg-info
+[0.953s] writing gazebo_pkg.egg-info/PKG-INFO
+[0.953s] writing dependency_links to gazebo_pkg.egg-info/dependency_links.txt
+[0.953s] writing entry points to gazebo_pkg.egg-info/entry_points.txt
+[0.953s] writing requirements to gazebo_pkg.egg-info/requires.txt
+[0.953s] writing top-level names to gazebo_pkg.egg-info/top_level.txt
+[0.953s] writing manifest file 'gazebo_pkg.egg-info/SOURCES.txt'
+[0.954s] reading manifest file 'gazebo_pkg.egg-info/SOURCES.txt'
+[0.955s] writing manifest file 'gazebo_pkg.egg-info/SOURCES.txt'
+[0.977s] running build_ext
+[0.978s] Creating /home/junyoung/test_ws/install/gazebo_pkg/lib/python3.10/site-packages/gazebo-pkg.egg-link (link to .)
+[0.978s] 
+[0.978s] Installed /home/junyoung/test_ws/build/gazebo_pkg
+[0.978s] running symlink_data
+[0.978s] creating /home/junyoung/test_ws/install/gazebo_pkg/share/ament_index
+[0.979s] creating /home/junyoung/test_ws/install/gazebo_pkg/share/ament_index/resource_index
+[0.979s] creating /home/junyoung/test_ws/install/gazebo_pkg/share/ament_index/resource_index/packages
+[0.979s] symbolically linking /home/junyoung/test_ws/build/gazebo_pkg/resource/gazebo_pkg -> /home/junyoung/test_ws/install/gazebo_pkg/share/ament_index/resource_index/packages
+[0.979s] symbolically linking /home/junyoung/test_ws/build/gazebo_pkg/package.xml -> /home/junyoung/test_ws/install/gazebo_pkg/share/gazebo_pkg
+[0.995s] Invoked command in '/home/junyoung/test_ws/build/gazebo_pkg' returned '0': PYTHONPATH=/home/junyoung/test_ws/build/gazebo_pkg/prefix_override:/home/junyoung/test_ws/install/gazebo_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/junyoung/test_ws/build/gazebo_pkg/build --no-deps symlink_data
